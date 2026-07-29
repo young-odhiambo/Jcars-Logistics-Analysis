@@ -43,6 +43,8 @@ The cleaned dataset provided;
 3. Better dashboard performance
 4. Accurate business insights for decision making.
 
+---
+
 # Dashboard Pages
 1. **Executive Overview**
 
@@ -92,6 +94,10 @@ Displays;
 - Revenue by county.
 
 ![image alt](https://github.com/young-odhiambo/Jcars-Logistics-Analysis/blob/a45afc0e3c46f2bbe9f21f01444bd48554603761/Screenshot%202026-07-30%20024050.png)
+
+---
+
+# Key Insights
 
 
 
