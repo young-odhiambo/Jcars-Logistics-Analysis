@@ -54,12 +54,26 @@ Provides a high level summary of the business using Key performance indicators, 
 
 ![image alt](https://github.com/young-odhiambo/Jcars-Logistics-Analsis/blob/ee12c01f36ac2f4737456ba8ca12af9c4ccd9a1c/Screenshot%202026-07-30%20015332.png)
 
-2. **Sales and Vehicle performance
+2. **Sales and Vehicle performance**
+
 Focuses on analysing sales performance across different categories and sales channels.
 - Revenue by Vehicle Make.
 - Gross Profit by Vehicle Model.
 - Gross Profit by Branch.
 - Vehicle type by vehicle year.
+- Lead source by sales representative.
+
+![image alt](https://github.com/young-odhiambo/Jcars-Logistics-Analysis/blob/43e125fa0a670fbdb1ef896a1f9a30c35024a8f8/Screenshot%202026-07-29%20140730.png)
+
+3. **Customer and Payment Analysis**
+
+Provide insights into customer behaviour and payment performance.
+
+- Top 10 customers by revenue.
+- Revenue by payment method.
+- Customer type by age group.
+- Outstanding revenue per order.
+- Payment status by payment method
 
 ![image alt](
 
