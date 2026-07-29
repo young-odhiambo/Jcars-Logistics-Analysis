@@ -57,6 +57,8 @@ Provides a high level summary of the business using Key performance indicators, 
 2. **Sales and Vehicle performance**
 
 Focuses on analysing sales performance across different categories and sales channels.
+
+Displays;
 - Revenue by Vehicle Make.
 - Gross Profit by Vehicle Model.
 - Gross Profit by Branch.
@@ -69,6 +71,7 @@ Focuses on analysing sales performance across different categories and sales cha
 
 Provide insights into customer behaviour and payment performance.
 
+Displays;
 - Top 10 customers by revenue.
 - Revenue by payment method.
 - Customer type by age group.
@@ -78,15 +81,17 @@ Provide insights into customer behaviour and payment performance.
 ![image alt](https://github.com/young-odhiambo/Jcars-Logistics-Analysis/blob/8f9b5ffaa68a29ecf6d380239954e8fa0fa8672b/Screenshot%202026-07-29%20140748.png)
 
 4. **Logistics and Operations**
+
 Evaluates delivery efficiency and operational performance.
 
+Displays;
 - Average days by region.
 - Revenue by Delivery Status.
 - Logistics Cost by Branch.
 - Delivery status distribution.
 - Revenue by county.
 
-![image alt](
+![image alt](https://github.com/young-odhiambo/Jcars-Logistics-Analysis/blob/a45afc0e3c46f2bbe9f21f01444bd48554603761/Screenshot%202026-07-30%20024050.png)
 
 
 
