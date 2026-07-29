@@ -45,4 +45,13 @@ The cleaned dataset provided;
 
 # Dashboard Pages
 1. Executive Overview
-[image alt!](
+
+Provides a high level summary of the business using Key performance indicators, including;
+- Monthly Revenue and Profit Trends.
+- Revenue by Sales Representative.
+- Revenue by Vehicle Model.
+- Revenue by County and Delivery Status.
+
+[image alt!](https://github.com/young-odhiambo/Jcars-Logistics-Analsis/blob/7f0b843eeec080162c98456c1e5fb3cfbbd1da9e/Screenshot%202026-07-30%20015332.png)
+
+ 
