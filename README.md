@@ -75,6 +75,19 @@ Provide insights into customer behaviour and payment performance.
 - Outstanding revenue per order.
 - Payment status by payment method
 
+![image alt](https://github.com/young-odhiambo/Jcars-Logistics-Analysis/blob/8f9b5ffaa68a29ecf6d380239954e8fa0fa8672b/Screenshot%202026-07-29%20140748.png)
+
+4. **Logistics and Operations**
+Evaluates delivery efficiency and operational performance.
+
+- Average days by region.
+- Revenue by Delivery Status.
+- Logistics Cost by Branch.
+- Delivery status distribution.
+- Revenue by county.
+
 ![image alt](
+
+
 
  
