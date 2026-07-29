@@ -44,7 +44,7 @@ The cleaned dataset provided;
 4. Accurate business insights for decision making.
 
 # Dashboard Pages
-1. Executive Overview
+1. **Executive Overview**
 
 Provides a high level summary of the business using Key performance indicators, including;
 - Monthly Revenue and Profit Trends.
@@ -52,6 +52,6 @@ Provides a high level summary of the business using Key performance indicators, 
 - Revenue by Vehicle Model.
 - Revenue by County and Delivery Status.
 
-[image alt!](https://github.com/young-odhiambo/Jcars-Logistics-Analsis/blob/7f0b843eeec080162c98456c1e5fb3cfbbd1da9e/Screenshot%202026-07-30%20015332.png)
+[image alt!](https://github.com/young-odhiambo/Jcars-Logistics-Analsis/blob/ee12c01f36ac2f4737456ba8ca12af9c4ccd9a1c/Screenshot%202026-07-30%20015332.png)
 
  
