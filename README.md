@@ -164,6 +164,14 @@ Jcars-Logistics-Analysis
 |__README.md
 
 ```
+---
+
+# Author
+Young Odhiambo
+
+Data Science student at LUXDev Academy
+
+--- 
 
 
 
