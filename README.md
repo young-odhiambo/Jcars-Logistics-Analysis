@@ -145,15 +145,23 @@ However, the business also has KSh 651.3 million in outstanding revenue, indicat
 ```
 Jcars-Logistics-Analysis
 |
-|--Data/
-|   |-car_sales.csv/
+|__Data/
+|   |__car_sales.csv/
 |
-|--SQL/
-|   |-Project_Logistics.sql/
+|__SQL/
+|   |__Project_Logistics.sql/
 |
-|--Power BI/
-|      |--Logistics_project.pbix/
-|--Images/
+|__Power BI/
+|     |__Logistics_project.pbix/
+|
+|__Images/
+|     |__Customer & payment.png/
+|     |__Data quality & returns.png/
+|     |__Executive Overview.png/
+|     |__Logistics & Delivery.png/
+|     |__Vehicle & sales performance.png/
+|
+|__README.md
 
 ```
 
