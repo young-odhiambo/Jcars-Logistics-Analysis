@@ -1,4 +1,4 @@
-# Jcars-Logistics-Analsis
+# Jcars-Logistics-Analysis
 An end-to-end Business Intelligence project that transforms raw logistics and vehicle sales data into actionable insights using PostgreSQL, SQL, and Microsoft Power BI.
 
 ## Overview
